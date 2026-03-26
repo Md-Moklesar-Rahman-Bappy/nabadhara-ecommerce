@@ -68,11 +68,10 @@ To run this project locally:
 ```
 
 ## 🌍 Deployment
-• Deployable on shared hosting, VPS, or cloud platforms (e.g., AWS, DigitalOcean).
-• Requires PHP 8+, MySQL, and Composer.
-• Configure .env for production database and mail settings.
-• Use php artisan config:cache and php artisan route:cache
- and for optimization.
+1. Deployable on shared hosting, VPS, or cloud platforms (e.g., AWS, DigitalOcean).
+2. Requires PHP 8+, MySQL, and Composer.
+3. Configure .env for production database and mail settings.
+4. Use php artisan config:cache and php artisan route:cache and for optimization.
 
 ## 📸 Screenshots
 Add screenshots or GIFs of your storefront and admin panel here for better presentation.
